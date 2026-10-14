@@ -140,7 +140,7 @@ This project demonstrates practical experience with:
 
 **Your Name**
 
-GitHub: Gayatrikotnana
+GitHub userName: Gayatrikotnana
 
 ---
 
